@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Ajuste aula 04</h1>
+    return <h1>Ajuste aula 07</h1>
 }
 
 export default Home;
